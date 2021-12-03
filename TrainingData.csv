@@ -1,0 +1,66 @@
+﻿Beer,Brewery,Country,Chooser,Style,ABV,Score,Score_Band
+Hitachino Nest White Ale,Kiuchi,Japan,Dave,Wheat Beer,5.5,7.125,VERYGOOD
+Holding Back the Tiers,Brew York,United Kingdom,Alan,xPA,5.2,7.1875,VERYGOOD
+Menabrea lager,Menabrea,Italy,Jamie,Lager,4.8,7.25,VERYGOOD
+Tusker,Tusker,Kenya,Sam,Lager,4.2,6.375,GOOD
+Titus,Saltaire Brewery,United Kingdom,Morty,Ale,3.9,6.9375,GOOD
+Helles,Augustiner Brauerei,Germany,Jamie,Lager,5.2,7.1875,VERYGOOD
+Orval,Orval,Belgium,Baz,Ale,6.9,6.6875,GOOD
+Nut Brown Ale,Samuel Smiths,United Kingdom,Daz,Ale,5,7,VERYGOOD
+Brew Rasp,Brew York,United Kingdom,Morty,xPA,6.5,6.875,GOOD
+Rhub. Streisand,Brew York,United Kingdom,Baz,xPA,5.5,6.8125,GOOD
+"Yes, Sensei!",8 Wired Brewing,New Zealand,Sam,xPA,5.5,7.375,VERYGOOD
+Asahi Superdry,Asahi,Japan,Dave,Lager,5.2,6.5625,GOOD
+Vedett,Vedett,Belgium,Alan,Lager,5.2,6.75,GOOD
+Organic Chocolate Stout,Samuel Smiths,United Kingdom,Daz,Stout,5,6.75,GOOD
+Lucky Buddha,Lucky Drink Co.,China,Dave,Lager,4.8,6.5,GOOD
+Samuel Smiths Cherry Fruit Beer,Samuel Smiths,United Kingdom,Daz,Fruit Beer,5.1,6.375,GOOD
+Dorking Five Claw,Dorking,United Kingdom,Pete,xPA,5.1,5.625,OK
+Brewboard Rex,BrewBoard,United Kingdom,Alan,Lager,4.6,6.375,GOOD
+"Calvors 
+Diversion",Calvors Brewery,United Kingdom,Dave,xPA,5.8,6.875,GOOD
+Orkney Gold,Orkney Brewery,United Kingdom,Jamie,Ale,4.5,7.125,VERYGOOD
+Juice Forsyth,Brew York,United Kingdom,Alan,xPA,5,7.625,VERYGOOD
+"Elgood's 
+Mango",Elgoods,United Kingdom,Morty,Fruit Beer,5,4.625,BAD
+The Pom,Brassarie Grain D'Orge,Belgium,Morty,Fruit Beer,5.2,6.75,GOOD
+"Paljas 
+Saison",Brouwerij Henricus,Belgium,Baz,Ale,6,7.25,VERYGOOD
+Oude Geuze,Boon,Belgium,Daz,Fruit Beer,7,4.875,BAD
+Wild Towers,Wild Craft,United Kingdom,Baz,Ale,4.5,6.5,GOOD
+Schlenkerla Helles Lagerbier,Schlenkerla,Germany,Sam,Lager,4.3,6.375,GOOD
+Loba Clandestina,Cerveza Loba Artesenal,Mexico,Jamie,Lager,4.5,7.25,VERYGOOD
+Guinness Extra Stout (Nigerian),Guinness Nigeria,Nigeria,Sam,Stout,7.5,6.25,GOOD
+Proper Job,St Austell,United Kingdom,Pete,xPA,5.5,6.5,GOOD
+Mash Bandicoot,Brew York,United Kingdom,Morty,xPA,5,7.75,VERYGOOD
+Small Beer Session Pale,Small Beer Brew Co,United Kingdom,Jamie,Ale,2.5,5.25,OK
+Viva La Guava-Lution,Brew York,United Kingdom,Alan,Fruit Beer,6.5,7.75,VERYGOOD
+Oxford Gold,Brakspear,United Kingdom,Sam,Ale,4.6,6.25,GOOD
+Amarillo Pale Ale,Calvors Brewery,United Kingdom,Dave,xPA,3.8,6,GOOD
+Hell,Einsiedler Brauhaus,Germany,Baz,Lager,5.2,7,VERYGOOD
+Stiegl,Stieglbrauerei Zu Salzburg,Austria,Sam,Lager,5,6.75,GOOD
+Chuggernaut,Amundsen/Devil's Peak,Norway,Pete,xPA,4.7,7.75,VERYGOOD
+Mongozo Coconut,Mongozo,Belgium,Pete,Fruit Beer,3.6,2.625,BAD
+Dark Side of the Mill,8 Sail Brewery,United Kingdom,Jamie,Ale,4.8,4.5,BAD
+Shipyard Brewery American Pale Ale,Shipyard,United States,Dave,xPA,4.5,6.75,GOOD
+Breclav Kanec Horky 11,Zámecký Pivovar Breclav,Czech Republic,Morty,Lager,4.5,6.25,GOOD
+Creamflow,Worthingtons,United Kingdom,Daz,Ale,3.6,5.625,OK
+Hopbliminal Messages,Amundsen,Norway,Baz,xPA,5.3,7.625,VERYGOOD
+Tiers Of A Clown,8 Sail Brewery,United Kingdom,Alan,xPA,6.5,6.25,GOOD
+Nibbler,Moon Gazer,United Kingdom,Daz,xPA,4,6.625,GOOD
+Mwsh,Purple Moose Brewery,United Kingdom,Sam,Lager,4.7,6.375,GOOD
+Leffe Ruby,Leffe,Belgium,Pete,Fruit Beer,5,6.5,GOOD
+Cazeau Saison,Cazeau,Belgium,Jamie,Ale,5,6.25,GOOD
+New England Pale Ale No.4,The Garden Brewery,Croatia,Alan,xPA,4.9,7.5,VERYGOOD
+Rocket Queen,Green Gold Brewing,Slovenia,Morty,xPA,6.9,6.875,GOOD
+Paulaner Oktoberfest,Paulaner,Germany,Sam,Lager,6,7.5,VERYGOOD
+St Paul Blond,St Paul,Belgium,Morty,Ale,5.3,6.875,GOOD
+Flying Fluffinator,Kereru,New Zealand,Daz,xPA,6,6.5,GOOD
+Easy IPA,Flying Dog,United States,Dave,xPA,4.7,7,VERYGOOD
+No 3 Classic,Baltika,Russia,Jamie,Lager,4.8,6.625,GOOD
+Quilmes,Cerveceria Malteria,Argentina,Pete,Lager,4.9,7.125,VERYGOOD
+Celebrator,Ayinger,Germany,Baz,Lager,6.7,7.5,VERYGOOD
+Saltaire Imperial Triple Choc,Saltaire Brewery,United Kingdom,Daz,Stout,7.4,7,VERYGOOD
+The Garden Milkshake IPA,The Garden Brewery,Croatia,Alan,xPA,6.2,6.375,GOOD
+El Perro Negro,Williams,United Kingdom,Baz,Lager,4.5,6.25,GOOD
+Biere du Miel Bio,Brasserie Dupont,Belgium,Dave,Ale,8,6.75,GOOD
